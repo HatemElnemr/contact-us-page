@@ -1,4 +1,3 @@
-import { MdMessage } from "react-icons/md";
 import styles from "./Buttons.module.css"
 
 function Button(props) {
